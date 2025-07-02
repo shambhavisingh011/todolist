@@ -7,7 +7,7 @@
 	<title>Daily Task List
   </title>
 
-	<link rel="stylesheet" href="style.css" />
+	<link rel="stylesheet" href="style.css">
 </head>
 <body>
 	
